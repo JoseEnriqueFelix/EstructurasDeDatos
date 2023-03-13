@@ -1,0 +1,1 @@
+Los atributos (o las variables) son los fields en inglés, mas bien, mas especificamente en java
